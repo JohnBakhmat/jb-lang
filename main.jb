@@ -1,0 +1,8 @@
+var a = 2;
+var b = 3;
+function add (a:int, b:int):int {
+    a + b
+};
+
+add (a, b);
+(add a b);
